@@ -1,3 +1,4 @@
 # portscan2.0
-# portscan2.0
-# portscan2.0
+
+
+优化1.0过于占用资源的问题
